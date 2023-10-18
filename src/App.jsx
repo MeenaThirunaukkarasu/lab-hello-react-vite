@@ -16,7 +16,7 @@ function App() {
     < Main />
     </div>
     
-      <div className='image'>
+      <div className='allImage'>
     < ImageOne />
     < ImageTwo />
     < ImageThree />

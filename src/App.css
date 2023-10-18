@@ -55,9 +55,42 @@ height: 500%;
    justify-content: space-between;
 
 }
+.nav img {
+  margin: 20px;
+}
+.menu {
+  height: 35px;
+  width: 35px;
+}
 
- .image {
-  display: flex;
-  justify-content: space-between;
+.awesomebtn {
+  background-color: white;
   color: black;
+}
+
+.main {
+  text-align: left;
+  margin-left: 40px;
+  width: 25%;
+}
+
+.content {
+  height: 550px;
+ width: 80vw;
+}
+ .image {
+  color: black;
+  width: 15%;
+  text-align: left;
 } 
+
+.allImage {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+
+.image h2, p {
+  margin-left: 20px;
+}
